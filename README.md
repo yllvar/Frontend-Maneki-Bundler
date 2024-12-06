@@ -27,7 +27,7 @@ Maneki Bundler is a powerful and user-friendly platform for token creation and m
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/maneki-bundler.git
+   git clone https://github.com/yllvar/maneki-bundler.git
    cd maneki-bundler
    ```
 
@@ -79,5 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Shoutout to all the open-source libraries that made this project possible, especially Pump Portal and their 0.5% fees 
 
 ```
-
-Remember to replace `https://github.com/your-username/maneki-bundler.git` with the actual repository URL when you set up the project on GitHub.
